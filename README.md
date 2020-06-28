@@ -27,4 +27,3 @@ https://github.com/mrousavy/AnimatedGif
 ### Open Source
 AnimateGif : https://github.com/mrousavy/AnimatedGif  
 youtube-dl : https://github.com/ytdl-org/youtube-dl
-# 2020_1_OSSP
