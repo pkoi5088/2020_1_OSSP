@@ -22,8 +22,6 @@ https://github.com/mrousavy/AnimatedGif
 ### 실행 환경
 .NET Framework 4.7.2 이상
 
-### 실행 방법
-
 ### Open Source
 AnimateGif : https://github.com/mrousavy/AnimatedGif  
 youtube-dl : https://github.com/ytdl-org/youtube-dl
